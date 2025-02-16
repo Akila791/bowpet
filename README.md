@@ -1,1 +1,1 @@
-# bowpet
+# bowpet app
